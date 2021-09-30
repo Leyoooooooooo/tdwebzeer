@@ -2,6 +2,7 @@ nav{
 	background-image:  url("Images/header.jpg");
 	display:  flex;
 	justify-content: space-around ;
+
 	align-items: center;
 }
 
@@ -28,4 +29,11 @@ a{
 
 .images{
 	text-align: center;
+}
+
+hr{
+	height: 3px;
+	background-color:  lightblue;
+	border: 0;
+	width:  100px;
 }
